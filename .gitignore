@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+build*/
+deploy*/
+local_install/
+*.log
+*.zip
+*.run
+*.so
+.env
